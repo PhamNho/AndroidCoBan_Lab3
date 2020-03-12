@@ -10,5 +10,6 @@ public class Bai1Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bai1);
+        setTitle("Bài 1");
     }
 }
